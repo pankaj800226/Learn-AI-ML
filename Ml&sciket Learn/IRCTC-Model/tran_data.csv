@@ -1,0 +1,28 @@
+TrainNo,TrainName,SeatsAvailable,BasePrice,FinalPrice,Explanation
+12301,Rajdhani Express,50,1500,1200,"🚄 Rajdhani Express:
+- Type: AC First Class / AC 2-Tier / AC 3-Tier
+- Fastest train connecting major cities
+- Meals included in ticket
+- Comfortable seating with extra legroom
+- Ideal for business travelers and quick journeys
+- Booking tips: Off-peak season discounts available"
+12301,Bulet Train,10,2500,1500,"🚄 Bulet Train:
+- Type: Non-AC Luxury Sleeper
+- High demand train, premium pricing
+- Scenic route, ideal for leisure travelers
+- Modern coaches with reclining seats
+- Limited availability, book early"
+12302,Shatabdi Express,40,1200,900,"🚄 Shatabdi Express:
+- Type: AC Chair Car / Executive Class
+- Fast daytime train for major routes
+- Meals included in ticket
+- Popular among tourists and daily commuters
+- Comfortable seating with extra amenities
+- Early bird offers if booked in advance"
+12306,Garib Rath,5,1200,1200,"🚄 Garib Rath:
+- Type: AC Chair Car / Executive Class
+- Only few seats left, hurry!
+- Fast daytime train
+- Ideal for tourists and professionals
+- Comfortable seating with refreshments"
+

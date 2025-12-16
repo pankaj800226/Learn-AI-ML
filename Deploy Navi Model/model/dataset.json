@@ -1,0 +1,2142 @@
+[
+  {
+    "id": 1,
+    "question": "whats up",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Bas roadmap sikh raha hoon, aur tum?"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "kya chal raha hai",
+    "steps": [
+      {
+        "step": "Response",  
+        "explanation": "Sab theek! Roadmap explore kar raha hoon."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "are you free now",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan dost, abhi roadmap discuss kar sakte hain."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "chal walk pe chale",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Chalo, par roadmap ke notes bhi saath le lete hain 😄"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "ready ho kya",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan! Roadmap ke liye fully ready hoon."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "long time no see",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, bahut time ho gaya! Chal roadmap update karte hain."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "kya karte ho aaj",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Roadmap padhai ka plan hai aaj."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "let's have coffee",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Coffee + roadmap = perfect combo 😄"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "abhi busy ho",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Thoda busy hoon, par roadmap ke liye always time hai."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "kuch naya seekha",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan! Naye roadmap tips aur tricks seekhe."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "are you okay",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan! Roadmap me full focus hoon."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "kaam khatam hua",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, ab roadmap ke liye free hoon."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "lets chat",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Chalo! Roadmap ke topics bhi discuss karte hain."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "kya kar rahe ho abhi",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Bas roadmap ke notes revise kar raha hoon."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "time pass karna hai",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Roadmap padhkar time pass bhi productive ho sakta hai."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "movie time hai",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Pehle roadmap ka chapter complete karte hain, phir movie!"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "dost milne chale",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan! Saath me roadmap bhi discuss karenge."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "hungry ho kya",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan thodi bhookh hai, par roadmap snacks ke saath best lagta hai 😄"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "busy schedule hai",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, par roadmap ka time hamesha nikalta hoon."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "coffee break time",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Chalo, roadmap break ke sath coffee best lagta hai."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "weather kaisa hai",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Mast hai! Roadmap study ke liye perfect weather."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "chill karte hain",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, roadmap ke baad chill karte hain."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "lets play game",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Game + roadmap = double fun 😎"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "school kaisa gaya",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "School theek tha, roadmap ke tips bhi seekhe."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "kaam complete hua",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, ab roadmap ke liye time mil gaya."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "abhi aao",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, roadmap discuss karne aa raha hoon."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "dost ke sath ho",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, aur roadmap ke liye ready hain."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "lets study",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan! Roadmap ke saath full study mode on."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "kya khaya aaj",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Bas roadmap ke sath thodi light snacks li."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "time ho gaya",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Haan, ab roadmap ka next session start karte hain."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "hi",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Hey, can I help you in roadmap related"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "good morning",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Good morning! Hope you have a great day ahead \u2600\ufe0f"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "how are you",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "I'm doing great, thank you! How about you"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "can you help me ",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Of course! Tell me what you need help with \ud83e\udd1d"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "what is your name",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "I’m\u2019 NaviAi \ud83e\udd16an created by Pankaj Singh."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "thank you ",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "You're welcome! Happy to help \ud83d\ude4c"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "good night",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Good night! Sleep well and take care \ud83c\udf19"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "bye",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Goodbye! Take care, see you soon \ud83d\udc4b"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "mern roadmap",
+    "steps": [
+      {
+        "step": "Step 1: What is Mern Stack",
+        "explanation": "The MERN stack is a popular, JavaScript-based technology set for building web applications, consisting of MongoDB (a database), Express.js (a back-end web framework), React (a front-end JavaScript library for user interfaces), and Node.js (a JavaScript runtime environment for server-side code). This stack enables developers to create dynamic, full-stack web applications using a single programming language, JavaScript. "
+      },
+      {
+        "step": "Step 2: Learn HTML, CSS, JavaScript basics",
+        "explanation": "This is the foundation of web development. HTML provides structure, CSS handles styling, and JavaScript makes the website interactive."
+      },
+      {
+        "step": "Step 3: Learn React fundamentals",
+        "explanation": "React is a JavaScript library used to build reusable components and fast UIs. Important topics include hooks (useState, useEffect) and routing."
+      },
+      {
+        "step": "Step 4: Learn Node.js & Express",
+        "explanation": "Node.js is a JavaScript runtime for the backend, and Express is a lightweight framework used to build APIs and server-side logic."
+      },
+      {
+        "step": "Step 5: Learn MongoDB CRUD",
+        "explanation": "MongoDB is a NoSQL database that stores JSON-like documents. CRUD (Create, Read, Update, Delete) operations are the core of database work."
+      },
+      {
+        "step": "Step 6: Integrate MERN",
+        "explanation": "Connect the frontend (React) with the backend (Node/Express) and the database (MongoDB) to build a complete full-stack application."
+      },
+      {
+        "step": "Step 7: Build Projects",
+        "explanation": "Projects provide practice, such as Blog Apps, E-commerce platforms, or Chat Apps. and finally one or two your according build real world project for job purpose and strong portfolio."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "machine learning roadmap",
+    "steps": [
+      {
+        "step": "Step 1: What is Machine Learning?",
+        "explanation": "Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. It involves training algorithms to recognize patterns and make predictions or decisions without being explicitly programmed for specific tasks."
+      },
+      {
+        "step": "Step 2: Learn Python basics",
+        "explanation": "Python is the most popular language for ML. Basics include variables, loops, functions, and OOP concepts."
+      },
+      {
+        "step": "Step 3: Learn Math (Linear Algebra, Statistics, Probability)",
+        "explanation": "Math is essential to understand ML algorithms. Linear algebra for vectors/matrices, statistics for data analysis, and probability for handling uncertainty."
+      },
+      {
+        "step": "Step 4: Learn ML Algorithms",
+        "explanation": "Study supervised (Regression, Classification) and unsupervised (Clustering) algorithms. These solve real-world problems."
+      },
+
+      {
+        "step": "Step 6: Work on AI ML Project ",
+        "explanation": "Projects like Spam Classifiers, Sentiment Analysis, or Movies Recommender Systems and finaly you build AI ML chatboat project/product and lunch market and include resume and portfolio."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "cloud computing roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Linux Fundamentals",
+        "explanation": "Master the Linux command line, scripting (Bash/Python), and basic networking concepts. Most cloud infrastructure runs on Linux."
+      },
+      {
+        "step": "Step 2: Understand Cloud Fundamentals",
+        "explanation": "Learn the core concepts of cloud computing: IaaS, PaaS, and SaaS. Understand the differences between public, private, and hybrid clouds and pick a provider (AWS, Azure, or GCP)."
+      },
+      {
+        "step": "Step 3: Hands-On Experience with Services",
+        "explanation": "Get hands-on with a chosen cloud provider's free tier. Deploy virtual machines, set up storage buckets, manage databases, and configure networking."
+      },
+      {
+        "step": "Step 4: Master Infrastructure as Code (IaC)",
+        "explanation": "Learn to manage and provision infrastructure using code with tools like Terraform or CloudFormation. This is a core skill for modern cloud engineering."
+      },
+      {
+        "step": "Step 5: DevOps & Containerization",
+        "explanation": "Understand DevOps principles and learn tools like Docker and Kubernetes for containerizing and orchestrating applications. Set up CI/CD pipelines with tools like Jenkins or GitHub Actions."
+      },
+      {
+        "step": "Step 6: Security and Monitoring",
+        "explanation": "Learn about cloud security best practices (IAM, firewalls, encryption) and monitoring tools (e.g., CloudWatch). Security is a critical and in-demand skill."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "cybersecurity roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Foundational IT Skills",
+        "explanation": "Start with the basics: master operating systems (Linux, Windows), networking (TCP/IP, DNS, OSI model), and a scripting language (Python, Bash)."
+      },
+      {
+        "step": "Step 2: Security Fundamentals",
+        "explanation": "Learn the CIA triad (Confidentiality, Integrity, Availability), cryptography, and common threats/vulnerabilities. Get a certification like CompTIA Security+ to validate your knowledge."
+      },
+      {
+        "step": "Step 3: Offensive Security (Red Team)",
+        "explanation": "Learn ethical hacking and penetration testing. Understand how attackers exploit vulnerabilities through tools like Metasploit and Nmap. Practice in a controlled lab environment."
+      },
+      {
+        "step": "Step 4: Defensive Security (Blue Team)",
+        "explanation": "Learn to defend against cyber threats. Focus on threat detection, incident response, and security monitoring with tools like SIEM (Security Information and Event Management)."
+      },
+      {
+        "step": "Step 5: Cloud Security",
+        "explanation": "As more data moves to the cloud, cloud security is essential. Learn to secure cloud environments and data on platforms like AWS, Azure, and GCP. A cloud security certification is highly valuable."
+      },
+      {
+        "step": "Step 6: Specialization & Soft Skills",
+        "explanation": "Choose a specialization like threat intelligence, digital forensics, or application security. Develop soft skills like communication and problem-solving, which are crucial for incident response and teamwork."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "artificial intelligence roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Programming & Mathematics",
+        "explanation": "Master Python as it's the dominant language for AI. Simultaneously, build a strong understanding of linear algebra, calculus, and probability."
+      },
+      {
+        "step": "Step 2: Machine Learning Fundamentals",
+        "explanation": "Learn the core concepts of machine learning, including supervised, unsupervised, and reinforcement learning. Get hands-on with libraries like Scikit-learn."
+      },
+      {
+        "step": "Step 3: Natural Language Processing (NLP)",
+        "explanation": "Learn how machines process and understand human language. Start with text preprocessing, sentiment analysis, and embeddings, then move to advanced topics like transformers and sequence-to-sequence models."
+      },
+      {
+        "step": "Step 4: Deep Learning & Frameworks",
+        "explanation": "Dive into deep learning with neural networks. Learn to use industry-standard frameworks like PyTorch and TensorFlow for building complex models."
+      },
+      {
+        "step": "Step 5: Generative AI & Large Language Models (LLMs)",
+        "explanation": "This is a key area for 2025. Learn the theory behind transformer models and how to use pre-trained models from platforms like Hugging Face for tasks like text generation and summarization."
+      },
+      {
+        "step": "Step 6: Prompt Engineering & AI Ethics",
+        "explanation": "Prompt engineering is a vital skill for interacting with LLMs. Understand the ethical implications of AI, including bias, privacy, and responsible use."
+      },
+      {
+        "step": "Step 6: Work on AI ML Project ",
+        "explanation": "Projects like Spam Classifiers, Sentiment Analysis, or Movies Recommender Systems and finaly you build AI chatboat project/product and lunch market and include resume and portfolio."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "advance mern roadmap",
+    "steps": [
+      {
+        "step": "Step 1: What is Mern Stack",
+        "explanation": "The MERN stack is a popular, JavaScript-based technology set for building web applications, consisting of MongoDB (a database), Express.js (a back-end web framework), React (a front-end JavaScript library for user interfaces), and Node.js (a JavaScript runtime environment for server-side code). This stack enables developers to create dynamic, full-stack web applications using a single programming language, JavaScript. "
+      },
+      {
+        "step": "Step 2: Learn HTML, SASS, JavaScript basics",
+        "explanation": "This is the foundation of web development. HTML provides structure, CSS handles styling, and JavaScript makes the website interactive."
+      },
+      {
+        "step": "Step 3: Learn React fundamentals",
+        "explanation": "React is a JavaScript library used to build reusable components and fast UIs. Important topics include hooks (useState, useEffect) and routing."
+      },
+
+      {
+        "step": "step: 4 Learn TailWind Css",
+        "explanation": "This is advance version in css and"
+      },
+      {
+        "step": "Step 5: Learn Node.js & Express",
+        "explanation": "Node.js is a JavaScript runtime for the backend, and Express is a lightweight framework used to build APIs and server-side logic."
+      },
+      {
+        "step": "Step 6: Learn MongoDB CRUD",
+        "explanation": "MongoDB is a NoSQL database that stores JSON-like documents. CRUD (Create, Read, Update, Delete) operations are the core of database work."
+      },
+      {
+        "step": "Step 7: Integrate MERN",
+        "explanation": "Connect the frontend (React) with the backend (Node/Express) and the database (MongoDB) to build a complete full-stack application."
+      },
+      {
+        "step": "Step: 8 Learn Radis",
+        "explanation": "Redis is an in-memory data structure store, used as a database, cache, and message broker. Learn how to use Redis for session management, caching, and real-time data in MERN applications."
+      },
+      {
+        "step": "Step: 9 Learn Docker",
+        "explanation": "Docker is a platform for containerizing applications, making them portable and easier to deploy. Learn how to create Dockerfiles, build images, and run containers for your MERN stack projects."
+      },
+      {
+        "step": "Step: 10 Learn GraphQl",
+        "explanation": "GraphQL is a query language for APIs and a runtime for executing those queries. Learn how to build flexible APIs with GraphQL and integrate them into your MERN stack applications."
+      },
+      {
+        "step": "Step: 11 Learn Socket.io",
+        "explanation": "Socket.io enables real-time, bidirectional communication between web clients and servers. Learn how to implement features like live chat, notifications, and real-time updates in your MERN projects."
+      },
+      {
+        "step": "Step 11: Build Projects",
+        "explanation": "Projects provide practice, such as Blog Apps, E-commerce platforms, or Chat Apps. and finally one or two your according build real world project for job purpose and strong portfolio."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "frontend developer roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Frontend roadmap in JavaScript",
+        "explanation": "This roadmap is for mastering frontend development. You will learn HTML, CSS, JavaScript, and React to build modern, responsive web applications."
+      },
+      {
+        "step": "Step 2: Learn HTML",
+        "explanation": "HTML defines the structure of a web page. Learn headings, paragraphs, images, forms, tables, and semantic tags to build the foundation of websites."
+      },
+      {
+        "step": "Step 3: Learn CSS",
+        "explanation": "CSS is used for styling websites. Learn colors, fonts, layouts, animations, responsive design using media queries, flexbox, and CSS grid."
+      },
+      {
+        "step": "Step 4: Learn JavaScript",
+        "explanation": "JavaScript adds interactivity. Learn variables, functions, loops, events, DOM manipulation, fetch API, promises, and async/await for dynamic functionality."
+      },
+      {
+        "step": "Step 5: Learn React JS",
+        "explanation": "React is a popular frontend library. Learn components, props, state, hooks (useState, useEffect), routing, API integration, and state management to build scalable apps."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "full stack roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Python basics & OOP",
+        "explanation": "Start with Python fundamentals such as variables, loops, functions, and data structures. Then move to Object-Oriented Programming concepts like classes, objects, inheritance, and polymorphism."
+      },
+      {
+        "step": "Step 2: Learn Flask/Django Rest APIs",
+        "explanation": "Flask (lightweight) and Django (full-stack) are popular frameworks. Learn how to build REST APIs to connect frontend and backend."
+      },
+      {
+        "step": "Step 3: Learn PostgreSQL / MySQL CRUD",
+        "explanation": "Understand how to connect databases and perform CRUD operations (Create, Read, Update, Delete) to store and manage data."
+      },
+      {
+        "step": "Step 4: Learn React for frontend",
+        "explanation": "Learn React to consume and test backend APIs, enabling you to build full-stack applications."
+      },
+      {
+        "step": "Step 5: Learn Authentication (JWT, OAuth)",
+        "explanation": "Implement authentication and authorization for secure apps. JWT (JSON Web Token) and OAuth2.0 are widely used for login and user management."
+      },
+      {
+        "step": "Step 6: Build Project",
+        "explanation": "Apply everything you learned to build a real-world project such as an e-commerce site, blog platform, or chat application."
+      },
+      {
+        "step": "Step 7: Finally deployment your project",
+        "explanation": "Deploy your project on hosting platforms like Render, Vercel, Netlify, or AWS so it can be accessed online."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "devops roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Linux & Scripting",
+        "explanation": "Understand Linux basics, shell scripting, and system administration."
+      },
+      {
+        "step": "Step 2: Version Control (Git & GitHub)",
+        "explanation": "Learn Git for version control and GitHub/GitLab for collaboration."
+      },
+      {
+        "step": "Step 3: CI/CD Concepts",
+        "explanation": "Understand Jenkins, GitHub Actions, GitLab CI for automating pipelines."
+      },
+      {
+        "step": "Step 4: Containers & Orchestration",
+        "explanation": "Learn Docker, Kubernetes to manage applications efficiently."
+      },
+      {
+        "step": "Step 5: Cloud Platforms",
+        "explanation": "Get hands-on with AWS, Azure, or GCP to deploy and manage cloud infra."
+      },
+      {
+        "step": "Step 6: Monitoring & Security",
+        "explanation": "Use Prometheus, Grafana, ELK stack, and basic DevSecOps practices."
+      },
+      {
+        "step": "Step 7: Final Project",
+        "explanation": "Create a CI/CD pipeline that deploys a Dockerized web app to Kubernetes on AWS, with monitoring using Prometheus + Grafana."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "beginner mern stack project",
+    "steps": [
+      {
+        "step": "Beginner project 1: Todo List App",
+        "explanation": "A beginner-friendly MERN stack project to manage daily tasks. Users can create, update, delete, and mark tasks as completed."
+      },
+      {
+        "step": "1. Client - Task Management",
+        "explanation": "➕ Add new task with title and description\n✏️ Edit existing task\n❌ Delete task\n✅ Mark task as completed"
+      },
+      {
+        "step": "2. Client - Authentication",
+        "explanation": "👤 Signup/Login (JWT)\n🔑 Password encryption with bcrypt\n📂 User-specific tasks only"
+      },
+      {
+        "step": "3. Client - UI/UX",
+        "explanation": "📱 Responsive design with React\n🎨 Use Tailwind/MUI for styling\n🔍 Task filter (All, Completed, Pending)"
+      },
+      {
+        "step": "4. Server - APIs",
+        "explanation": "📡 REST APIs with Express.js\n🗂️ CRUD endpoints (/add, /update, /delete, /list)\n🔒 Protected routes using JWT"
+      },
+      {
+        "step": "5. Database - MongoDB",
+        "explanation": "📊 Collection: Users, Tasks\n📌 Each task linked to user via userId\n📜 Fields: { title, description, status, createdAt }"
+      },
+      {
+        "step": "6. Deployment",
+        "explanation": "☁️ Frontend on Vercel/Netlify\n🖥️ Backend on Render/Heroku\n💾 Database on MongoDB Atlas"
+      },
+      {
+        "step": "Beginner Project 2: Notes App",
+        "explanation": "An application where users can write, edit, delete, and categorize notes with colors. Great for organizing thoughts."
+      },
+
+      {
+        "step": "1. Features",
+        "explanation": "📝 Create new note\n✏️ Edit notes anytime\n❌ Delete notes\n🎨 Categorize notes with colors\n📌 Pin notes to top\n🔍 Search notes\n📂 Organize notes by tags"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 User login/signup\n🔑 JWT authentication\n📂 User-specific notes only"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind/MUI UI\n📱 Responsive design\n🖼️ Rich text editor for formatting notes\n🔍 Filter notes by tag/color"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- GET /notes (fetch all notes)\n- POST /notes (create note)\n- PUT /notes/:id (update note)\n- DELETE /notes/:id (remove note)\n🔒 Secure with JWT"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections: Users, Notes\n🗂️ Note fields: { title, content, color, tags, pinned, createdAt, userId }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "📥 Export notes as PDF\n🔔 Reminder for important notes\n☁️ Deploy frontend (Netlify/Vercel), backend (Render/Heroku), database (MongoDB Atlas)\n"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "medium mern stack project",
+    "steps": [
+      {
+        "step": "Medium Project 1: Blog Platform",
+        "explanation": "A blogging platform where users can create blogs, like/comment on posts, and follow authors. Similar to Medium/Dev.to."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "📝 Create blog posts with title, content, and cover image\n✏️ Edit or delete blogs\n❤️ Like blogs\n💬 Comment on blogs\n👥 Follow/unfollow authors\n🔍 Search blogs by title, tags, or author\n📂 Categories & Tags for blogs\n📈 Trending posts section"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 Signup/Login with JWT\n🔑 Password encryption (bcrypt)\n🪪 OAuth login (Google, GitHub optional)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind for UI\n🖼️ Rich Text Editor for writing blogs\n📱 Responsive layout (desktop & mobile)\n🏠 Pages: Home, Blog Details, Create Blog, Profile"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- POST /blogs (create blog)\n- GET /blogs (fetch blogs)\n- GET /blogs/:id (fetch blog details)\n- PUT /blogs/:id (update blog)\n- DELETE /blogs/:id (delete blog)\n- POST /blogs/:id/like (like blog)\n- POST /blogs/:id/comment (add comment)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, password, bio, followers }\n- Blogs: { title, content, tags, image, userId, likes }\n- Comments: { blogId, userId, text, createdAt }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "📢 Notifications when someone comments/likes\n📂 Save favorite blogs for later\n🔗 Share blogs via social media\n☁️ Deploy with Netlify (frontend), Render/Heroku (backend), MongoDB Atlas\n"
+      },
+
+      {
+        "step": "Medium Project 2: Recipe Sharing App",
+        "explanation": "An app where food lovers can share recipes, upload images, like/comment, and categorize them. Similar to Tasty or AllRecipes."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "🍲 Add recipes with ingredients, steps, and images\n✏️ Edit or delete recipes\n❤️ Like & 💬 Comment on recipes\n📂 Categories (Veg, Non-Veg, Dessert, Snacks, etc.)\n🔍 Search recipes by name, ingredient, or category\n⭐ Rate recipes\n📥 Save favorite recipes"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 User signup/login with JWT\n🔑 Secure password (bcrypt)\n🪪 OAuth login (optional)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind UI\n📱 Responsive design for mobile & desktop\n🖼️ Recipe detail page with image & steps\n📑 User profile with uploaded recipes"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- POST /recipes (create recipe)\n- GET /recipes (list all recipes)\n- GET /recipes/:id (recipe details)\n- PUT /recipes/:id (update recipe)\n- DELETE /recipes/:id (delete recipe)\n- POST /recipes/:id/like (like recipe)\n- POST /recipes/:id/comment (comment on recipe)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, password, profilePic }\n- Recipes: { title, description, ingredients, steps, category, image, likes, userId }\n- Comments: { recipeId, userId, text, createdAt }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "📂 Recipe categories & filters\n📸 Image upload with Multer + Cloudinary\n⭐ Recipe ratings system\n📢 Notifications for comments/likes\n☁️ Deploy on Netlify (frontend), Render/Heroku (backend), MongoDB Atlas"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "advance mern stack project",
+    "steps": [
+      {
+        "step": "Advance Project 1: E-commerce App",
+        "explanation": "A full-featured online store where users can browse products, add to cart, checkout, and make payments. Admins can manage products and orders."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "🛒 Browse products by category, price, and rating\n🔍 Search products\n📄 Product details page with reviews & ratings\n➕ Add to Cart, Remove from Cart\n✅ Checkout with address & payment\n📦 Track order status (Pending, Shipped, Delivered)\n💬 Customer reviews & ratings\n👤 User profile with order history"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 User signup/login with JWT\n🔑 Password encryption (bcrypt)\n🛡️ Role-based access (Admin, Customer)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Redux for state management\n🎨 Tailwind/MUI for styling\n📱 Responsive UI (desktop, tablet, mobile)\n📦 Cart & checkout system\n📊 Admin dashboard for product management"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- GET /products (fetch products)\n- GET /products/:id (product details)\n- POST /cart (add to cart)\n- POST /orders (place order)\n- PUT /orders/:id (update order status)\n- POST /reviews (add review)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, password, role }\n- Products: { name, description, price, stock, category, image, ratings }\n- Cart: { userId, items }\n- Orders: { userId, products, totalAmount, status }\n- Reviews: { productId, userId, rating, comment }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "💳 Payment integration (Stripe/Razorpay)\n🔔 Email notifications for orders\n📦 Inventory management for admins\n📊 Sales analytics dashboard\n☁️ Deployment: Vercel (frontend), Render/Heroku (backend), MongoDB Atlas\n"
+      },
+      {
+        "step": "Advance Project 2: Social Media App",
+        "explanation": "A social media platform where users can share posts, like, comment, and follow/unfollow other users. Similar to Instagram or Twitter."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "🖼️ Create posts with text, images, or videos\n✏️ Edit or delete posts\n❤️ Like & 💬 comment on posts\n👥 Follow/Unfollow users\n📢 Notifications for likes, comments, follows\n🔍 Search users & posts\n📂 User profile with posts, followers, following\n📊 Explore feed with trending posts"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 Signup/login with JWT\n🔑 Secure password encryption (bcrypt)\n🪪 Optional: OAuth login (Google, Facebook)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind for design\n📱 Mobile-first responsive UI\n🎥 Media upload with preview\n📑 Profile, Feed, Explore, Notifications pages"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- POST /posts (create post)\n- GET /posts (fetch feed)\n- POST /posts/:id/like (like post)\n- POST /posts/:id/comment (comment)\n- POST /follow/:id (follow user)\n- GET /users/:id (fetch user profile)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, password, bio, followers, following }\n- Posts: { userId, content, image/video, likes, createdAt }\n- Comments: { postId, userId, text, createdAt }\n- Notifications: { userId, type, message, createdAt }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "📸 Image/Video upload with Multer + Cloudinary\n⚡ Real-time chat & notifications with Socket.io\n🔒 Privacy settings (public/private profile)\n📈 Analytics: post reach, followers growth\n☁️ Deployment: Netlify/Vercel (frontend), Render/Heroku (backend), MongoDB Atlas"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "startup mern stack project",
+    "steps": [
+      {
+        "step": "Startup Project 1: Job Portal",
+        "explanation": "A platform where companies can post jobs and candidates can apply. Similar to Naukri, Indeed, or LinkedIn Jobs."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "🏢 Company dashboard to post jobs\n👨‍💼 Candidate dashboard to apply jobs\n📄 Upload resume & cover letter\n🔍 Search jobs by title, company, location\n📂 Filter jobs (Full-time, Part-time, Remote)\n⭐ Save jobs for later\n📊 Application tracking (Applied, Shortlisted, Hired, Rejected)"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 Signup/Login (JWT)\n🛡️ Role-based auth (Company, Candidate, Admin)\n🔑 Password encryption with bcrypt\n🪪 Optional: OAuth login (LinkedIn, Google)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind for UI\n📱 Responsive design (mobile + desktop)\n🏠 Pages: Home, Job Listing, Job Details, Profile, Dashboard\n📊 Company panel to manage posted jobs\n📑 Candidate profile with resume, skills, experience"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- POST /jobs (create job)\n- GET /jobs (fetch all jobs)\n- GET /jobs/:id (job details)\n- POST /apply (apply to job)\n- GET /applications (fetch applications for company)\n- PUT /applications/:id (update status)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, password, role, resume }\n- Jobs: { companyId, title, description, skills, location, type, salary }\n- Applications: { jobId, candidateId, resume, status }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "📧 Email notifications (applied, shortlisted, hired)\n🤖 Job recommendations based on skills\n🔗 Share jobs on social media\n☁️ Deployment: Vercel/Netlify (frontend), Render/Heroku (backend), MongoDB Atlas\n"
+      },
+      {
+        "step": "Startup Project 2: Online Learning Platform",
+        "explanation": "A learning platform like Udemy or Coursera, where instructors can upload courses and students can purchase and learn."
+      },
+      {
+        "step": "1. Features",
+        "explanation": "📚 Browse courses by category\n🎥 Video lessons with chapters\n✏️ Quizzes and assignments\n📝 Certificates on completion\n⭐ Rate & review courses\n📂 Wishlist & purchased courses\n📊 Progress tracking for each student"
+      },
+      {
+        "step": "2. Authentication",
+        "explanation": "👤 Signup/Login (JWT)\n🛡️ Role-based auth (Instructor, Student, Admin)\n🪪 OAuth login (Google, GitHub optional)"
+      },
+      {
+        "step": "3. Client (Frontend)",
+        "explanation": "⚛️ React + Tailwind/MUI\n📱 Responsive design\n🏠 Pages: Home, Courses, Course Details, Dashboard\n📑 Student dashboard (enrolled courses, progress)\n📊 Instructor dashboard (upload course, manage students)"
+      },
+      {
+        "step": "4. Server (Backend)",
+        "explanation": "📡 Express.js APIs:\n- POST /courses (create course)\n- GET /courses (list all courses)\n- GET /courses/:id (course details)\n- POST /enroll (enroll in a course)\n- POST /lessons (upload lesson)\n- POST /quiz (add quiz)"
+      },
+      {
+        "step": "5. Database (MongoDB)",
+        "explanation": "📊 Collections:\n- Users: { name, email, role, purchasedCourses }\n- Courses: { title, description, price, category, instructorId }\n- Lessons: { courseId, title, videoUrl, duration }\n- Enrollments: { courseId, userId, progress }\n- Quizzes: { courseId, questions, answers }"
+      },
+      {
+        "step": "6. Extra Features",
+        "explanation": "💳 Stripe/Razorpay payment integration\n📜 Auto-generated certificates (PDF)\n📢 Notifications for new lessons\n📺 Video streaming optimization\n☁️ Deployment: Netlify/Vercel (frontend), Render/Heroku (backend), MongoDB Atlas"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "yes",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Ok what technology related you ask a question"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "bca roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Fundamentals of Computers",
+        "explanation": "Learn computer basics including hardware, software, operating systems, and basic networking concepts."
+      },
+      {
+        "step": "Step 2: Programming Basics and Algorithms",
+        "explanation": "Understand programming logic, algorithms, and flowcharts for problem solving."
+      },
+      {
+        "step": "Step 3: Mathematics for Computing",
+        "explanation": "Study discrete mathematics, sets, relations, functions, logic, and basic probability & statistics."
+      },
+      {
+        "step": "Step 4: Programming in C",
+        "explanation": "Learn C language basics: data types, control structures, functions, arrays, strings, pointers, and structures."
+      },
+      {
+        "step": "Step 5: Digital Electronics & Mathematics II",
+        "explanation": "Learn logic gates, number systems, combinational circuits, matrices, determinants, and linear equations."
+      },
+      {
+        "step": "Step 6: Object Oriented Programming with C++",
+        "explanation": "Learn classes, objects, inheritance, polymorphism, encapsulation, file handling, and constructors/destructors."
+      },
+      {
+        "step": "Step 7: Database Management System (DBMS)",
+        "explanation": "Study SQL, normalization, ER diagrams, DML, DDL, and DCL commands."
+      },
+      {
+        "step": "Step 8: Operating Systems",
+        "explanation": "Understand processes, threads, memory management, file systems, and OS types."
+      },
+      {
+        "step": "Step 9: Data Structures",
+        "explanation": "Learn arrays, linked lists, stack, queue, trees, graphs, and algorithms like DFS & BFS."
+      },
+      {
+        "step": "Step 10: Software Engineering & Web Technologies",
+        "explanation": "Understand SDLC, Agile, requirements analysis, testing, HTML, CSS, JavaScript, and client-server basics."
+      },
+      {
+        "step": "Step 11: Java Programming",
+        "explanation": "Learn Core Java, OOP concepts, exception handling, collections framework, and GUI programming."
+      },
+      {
+        "step": "Step 12: Computer Networks",
+        "explanation": "Study OSI & TCP/IP models, networking devices, IP addressing, subnetting, and protocols."
+      },
+      {
+        "step": "Step 13: Advanced Web Technologies",
+        "explanation": "Learn PHP, Node.js, Express.js, database integration (MySQL/MongoDB), and REST API basics."
+      },
+      {
+        "step": "Step 14: Project / Internship",
+        "explanation": "Implement mini/full project using web or Java, including documentation and deployment."
+      },
+      {
+        "step": "Step 15: Additional Skills",
+        "explanation": "Version Control (Git/GitHub), competitive programming, DSA practice, soft skills, resume building."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "who are you",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "I’m\u2019 NaviAi \ud83e\udd16an created by Pankaj Singh."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "ai roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Python & Math",
+        "explanation": "Python programming and mathematics like linear algebra, statistics, and probability are essential foundations."
+      },
+      {
+        "step": "Step 2: Learn ML & DL Basics",
+        "explanation": "Study machine learning algorithms, supervised/unsupervised learning, and deep learning fundamentals."
+      },
+      {
+        "step": "Step 3: Learn AI Frameworks",
+        "explanation": "Get hands-on with TensorFlow, PyTorch, and Scikit-learn for building AI models."
+      },
+      {
+        "step": "Step 4: Build Projects",
+        "explanation": "Work on projects like chatbots, recommendation systems, or image classifiers to apply your learning."
+      },
+      {
+        "step": "Step 5: Deployment",
+        "explanation": "Deploy AI models using Flask/Django APIs, Docker, or cloud platforms for real-world use."
+      }
+    ]
+  },
+
+  {
+    "id": 56,
+    "question": "blockchain roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Blockchain Basics",
+        "explanation": "Understand decentralization, distributed ledger, and consensus mechanisms."
+      },
+      {
+        "step": "Step 2: Learn Smart Contracts",
+        "explanation": "Use Solidity or other languages to write and deploy smart contracts."
+      },
+      {
+        "step": "Step 3: Learn DApps Development",
+        "explanation": "Build decentralized applications using Web3.js or Ethers.js."
+      },
+      {
+        "step": "Step 4: Security & Auditing",
+        "explanation": "Learn to audit smart contracts and secure blockchain applications."
+      },
+      {
+        "step": "Step 5: Projects",
+        "explanation": "Create projects like NFT marketplaces, decentralized exchanges, or crypto wallets."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "iot roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn Electronics & Sensors",
+        "explanation": "Understand basic electronics, microcontrollers, and sensors."
+      },
+      {
+        "step": "Step 2: Learn Programming for IoT",
+        "explanation": "Use Python, C/C++, or Arduino IDE to program IoT devices."
+      },
+      {
+        "step": "Step 3: Learn Networking & Protocols",
+        "explanation": "Understand communication protocols like MQTT, HTTP, and CoAP for IoT devices."
+      },
+      {
+        "step": "Step 4: Learn Cloud & Data Analysis",
+        "explanation": "Send IoT data to cloud platforms (AWS IoT, Azure IoT) and analyze it."
+      },
+      {
+        "step": "Step 5: Build IoT Projects",
+        "explanation": "Create smart home devices, health monitoring systems, or industrial IoT solutions."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "which company developed javaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a Netscape"
+      }
+    ]
+  },
+
+  {
+    "id": 59,
+    "question": "which symbol is used for comments in javaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a //"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Which type of variable is visible everywhere in your JavaScript code",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a Global variable"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "What is the output of typeof null",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a object"
+      }
+    ]
+  },
+
+  {
+    "id": 62,
+    "question": "Which function is used to parse a string to an integer in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a parseInt()"
+      }
+    ]
+  },
+
+  {
+    "id": 63,
+    "question": "Which operator is used to assign a value to a variable",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is a = "
+      }
+    ]
+  },
+
+  {
+    "id": 64,
+    "question": "Which method removes the last element from an array",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is pop()"
+      }
+    ]
+  },
+
+  {
+    "id": 65,
+    "question": "What will be the output of: Boolean(0)",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is false"
+      }
+    ]
+  },
+
+  {
+    "id": 66,
+    "question": "Which of the following is a JavaScript framework",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : React"
+      }
+    ]
+  },
+
+  {
+    "id": 67,
+    "question": "Which operator checks both value and type",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : ==="
+      }
+    ]
+  },
+
+  {
+    "id": 68,
+    "question": "What does NaN stand for in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Not a Number"
+      }
+    ]
+  },
+
+  {
+    "id": 69,
+    "question": "Which function is used to convert a JSON string into an object",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : JSON.parse()"
+      }
+    ]
+  },
+
+  {
+    "id": 70,
+    "question": "Which function is used to convert a JSON string into an object",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : undefined"
+      }
+    ]
+  },
+
+  {
+    "id": 71,
+    "question": "Which keyword is used to define a function in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : function"
+      }
+    ]
+  },
+
+  {
+    "id": 72,
+    "question": "Which of the following is a looping structure in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : All of the above"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Which event occurs when the user clicks on an HTML element",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : onclick"
+      }
+    ]
+  },
+
+  {
+    "id": 74,
+    "question": "Which built-in method adds one or more elements to the end of an array",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : push()"
+      }
+    ]
+  },
+
+  {
+    "id": 75,
+    "question": "Which function is used to display data in the console",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : console.log()"
+      }
+    ]
+  },
+
+  {
+    "id": 76,
+    "question": "How can you detect the client’s browser name in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : navigator.appName"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Which symbol is used for strict equality in JavaScript?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : ==="
+      }
+    ]
+  },
+
+  {
+    "id": 78,
+    "question": "Which function is used to serialize an object into a JSON string",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : JSON.stringify()"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "What is the correct syntax to write an array in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : var arr = [1,2,3]"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Which JavaScript method is used to find an element by its ID",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : getElementById()"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Which JavaScript method is used to find elements by class name",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : getElementsByClassName()"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Which operator is used for logical AND",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : &&"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which operator is used for logical OR",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : ||"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Which symbol is used for template literals in JavaScrip",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : `"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is used to stop a loop",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : break"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is used to skip an iteration in a loop",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : continue"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Which keyword is used to handle errors in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : catch"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Which keyword is used with catch for error handling",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : try"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Which function is used to delay code execution in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : setTimeout()"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Which function repeatedly executes code at specified intervals",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : setInterval()"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "What will be the output of: 2 + '2'",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : 22"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What will be the output of: 2 - '2''",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : 0"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "What will be the output of: {} + []",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : 0"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Which of the following is NOT a falsy value",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : []"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Which keyword is used to create a class in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : class"
+      }
+    ]
+  },
+
+  {
+    "id": 95,
+    "question": "Which method is used to create a promise in JavaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : new Promise()"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Which keyword is used to declare asynchronous functions",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : async"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Which keyword is used to wait inside async functions",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : await"
+      }
+    ]
+  },
+
+  {
+    "id": 80,
+    "question": "Which JavaScript object is used for mathematical operations",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Math"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Which method is used to round a number up to the nearest integer",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Math.ceil()"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Which method is used to round a number up to the nearest integer",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Math.ceil()"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which method is used to round a number down to the nearest integer",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Math.floor()"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "which keyword is used to export a module in javaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : export"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "which keyword is used to import a module in javaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : import"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "what is the default value of an uninitialized variable in javaScript",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : import"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "hye",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Hey, can I help you in roadmap related"
+      }
+    ]
+  },
+
+  {
+    "id": 88,
+    "question": "that good ",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Thank You 🤩, me learn ke ke tumko aur best way me bataunga"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "waah bro mast ",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Thank You 🤩, me learn ke ke tumko aur best way me bataunga"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "ok ",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Bye Bye"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What is supervised learning?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Learning with labeled data"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "What is unsupervised learning?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Learning without labeled data"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Which algorithm is used for regression?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Linear Regression"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Which algorithm is used for classification?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Logistic Regression"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "What is overfitting?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Model performs well on training but poorly on test"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Which algorithm is used for clustering?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : K-Means"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "What is reinforcement learning?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Learning based on rewards and penalties"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "What is a confusion matrix?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Table showing predicted vs actual results"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Which metric is used for regression performance?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Mean Squared Error"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "What is PCA used for?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Dimensionality reduction"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "What is a decision tree?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Tree-based model used for classification and regression"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "What is a random forest?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Ensemble of decision trees"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "What is gradient boosting?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Ensemble technique building trees sequentially"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "What is cross-validation?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Splitting dataset into folds to evaluate performance"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "What is a support vector machine (SVM)?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Algorithm that finds hyperplane to separate classes"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "What is k-nearest neighbors (KNN)?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Classifies based on closest training examples"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "What is a neural network?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Computational model inspired by brain"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "What is deep learning?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Subset of ML using multi-layer neural networks"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "What is overfitting prevention technique?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Regularization"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Which is L1 regularization?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Adds absolute value of coefficients"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Which is L2 regularization?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Adds squared value of coefficients"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question": "What is a hyperparameter?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Parameter set before training"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "What is a parameter in ML?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Variable learned from data during training"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question": "What is bias in ML?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Error due to wrong assumptions"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question": "What is variance in ML?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Error due to model sensitivity to small data changes"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "What is ensemble learning?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Combining multiple models to improve performance"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "What is perceptron?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Basic unit of neural network"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "What is activation function?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Function introducing non-linearity in NN"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Name a popular activation function.",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : ReLU"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "What is feature scaling?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Normalizing or standardizing features"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "question": "What is one-hot encoding?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Converting categorical variables into binary vectors"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "question": "What is clustering?",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Answer is : Grouping similar data points"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "question": "hello",
+    "steps": [
+      {
+        "step": "Response",
+        "explanation": "Hey, can I help you in roadmap related"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "question": "react roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Learn JavaScript Fundamentals",
+        "explanation": "Before diving into React, you must know JavaScript basics: variables, functions, arrays, objects, loops, and ES6 features like let/const, arrow functions, template literals, spread/rest operators, destructuring, promises, and async/await."
+      },
+      {
+        "step": "Step 2: Understand DOM & Events",
+        "explanation": "Learn how the DOM works, how to select elements, and handle events in plain JavaScript. React simplifies this process, but you need the foundation first."
+      },
+      {
+        "step": "Step 3: Learn React Basics (JSX & Components)",
+        "explanation": "JSX is a syntax extension that allows you to write HTML in JavaScript. Learn how to create functional components, pass props, and render UI elements."
+      },
+      {
+        "step": "Step 4: Props and State",
+        "explanation": "Props allow data to be passed from parent to child components, while state manages dynamic values inside a component. This is the foundation of React interactivity."
+      },
+      {
+        "step": "Step 5: React Hooks",
+        "explanation": "Learn useState, useEffect, and useRef. These hooks let you manage state, lifecycle, and references in functional components. They are core to modern React."
+      },
+      {
+        "step": "Step 6: Conditional Rendering & Lists",
+        "explanation": "Learn how to render components based on conditions (if/else, ternary operators) and display dynamic lists using map()."
+      },
+      {
+        "step": "Step 7: Forms & Controlled Components",
+        "explanation": "Learn how to build forms, handle user input, and control input values using React state."
+      },
+      {
+        "step": "Step 8: React Router",
+        "explanation": "Understand client-side routing with React Router. Learn how to create multi-page apps with routes, navigation, and URL parameters."
+      },
+      {
+        "step": "Step 9: Global State Management",
+        "explanation": "Learn Context API for simple global state. For larger apps, use Redux or Zustand to manage shared state efficiently."
+      },
+      {
+        "step": "Step 10: Data Fetching",
+        "explanation": "Learn how to fetch data from APIs using fetch() or axios. Handle loading, error, and success states properly."
+      },
+      {
+        "step": "Step 11: Styling in React",
+        "explanation": "Learn different styling approaches: CSS Modules, Styled Components, TailwindCSS, or MUI. Understand pros/cons of each."
+      },
+      {
+        "step": "Step 12: Performance Optimization",
+        "explanation": "Learn React.memo, useMemo, and useCallback to optimize re-renders. Understand key prop importance in lists."
+      },
+      {
+        "step": "Step 13: Advanced Hooks",
+        "explanation": "Go deeper into useReducer, useContext, and custom hooks to handle complex state and logic."
+      },
+      {
+        "step": "Step 14: Authentication & Security",
+        "explanation": "Learn how to implement login/logout, JWT authentication, route protection, and secure API communication."
+      },
+      {
+        "step": "Step 15: React Query (TanStack Query)",
+        "explanation": "A modern tool for server-state management. Learn caching, auto-refetching, pagination, and infinite scroll with APIs."
+      },
+      {
+        "step": "Step 16: TypeScript with React",
+        "explanation": "Learn how to use TypeScript to add type safety, interfaces, and better tooling to React projects."
+      },
+      {
+        "step": "Step 17: Testing in React",
+        "explanation": "Learn unit testing with Jest and React Testing Library. Test components, hooks, and integration logic."
+      },
+      {
+        "step": "Step 18: Server-Side Rendering (Next.js)",
+        "explanation": "Learn SSR and SSG with Next.js. Improve SEO, performance, and build full-stack apps with API routes."
+      },
+      {
+        "step": "Step 19: React + Backend Integration",
+        "explanation": "Connect your React frontend with Node.js/Express or any backend. Learn CRUD operations and secure API communication."
+      },
+      {
+        "step": "Step 20: Build Projects",
+        "explanation": "Practice is key. Build small → medium → large projects like a Todo App, E-commerce Store, Chat App, and Dashboard."
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "question": "nextjs roadmap",
+    "steps": [
+      {
+        "step": "Step 1: Prerequisites",
+        "explanation": "Before starting Next.js, you should know React basics (JSX, props, state, hooks) and modern JavaScript (ES6+, async/await, modules)."
+      },
+      {
+        "step": "Step 2: Introduction to Next.js",
+        "explanation": "Understand what Next.js is, why it’s used, and its advantages like server-side rendering (SSR), static site generation (SSG), and file-based routing."
+      },
+      {
+        "step": "Step 3: Next.js Project Setup",
+        "explanation": "Learn how to create a Next.js project using create-next-app, explore the folder structure, and understand the `pages/` directory."
+      },
+      {
+        "step": "Step 4: Pages & Routing",
+        "explanation": "Understand file-based routing, dynamic routes `[id].js`, nested routes, and catch-all routes `[...slug].js`."
+      },
+      {
+        "step": "Step 5: Linking & Navigation",
+        "explanation": "Learn how to use the `Link` component for client-side navigation and `useRouter` hook for programmatic navigation."
+      },
+      {
+        "step": "Step 6: Static Site Generation (SSG)",
+        "explanation": "Learn `getStaticProps` and `getStaticPaths` for building static pages at build time with dynamic content."
+      },
+      {
+        "step": "Step 7: Server-Side Rendering (SSR)",
+        "explanation": "Understand `getServerSideProps` for fetching data on every request for dynamic pages."
+      },
+      {
+        "step": "Step 8: Client-Side Data Fetching",
+        "explanation": "Learn client-side fetching with `useEffect`, `fetch`, `axios`, or React Query for dynamic updates after initial render."
+      },
+      {
+        "step": "Step 9: API Routes",
+        "explanation": "Learn how to create backend endpoints inside `pages/api/`. Useful for authentication, database queries, and server logic."
+      },
+      {
+        "step": "Step 10: Styling in Next.js",
+        "explanation": "Explore CSS Modules, TailwindCSS, Styled Components, and MUI with Next.js. Learn global vs modular styles."
+      },
+      {
+        "step": "Step 11: Image Optimization",
+        "explanation": "Use the Next.js `Image` component for automatic image optimization, lazy loading, and responsive resizing."
+      },
+      {
+        "step": "Step 12: Fonts & Assets",
+        "explanation": "Learn Next.js font optimization with `next/font` and manage static files (images, icons, fonts) in the `public/` directory."
+      },
+      {
+        "step": "Step 13: Middleware",
+        "explanation": "Understand Next.js middleware for authentication, logging, and request handling at the edge."
+      },
+      {
+        "step": "Step 14: Authentication & Security",
+        "explanation": "Implement authentication using NextAuth.js or JWT. Learn protected routes and secure API endpoints."
+      },
+      {
+        "step": "Step 15: Environment Variables",
+        "explanation": "Use `.env.local` files for API keys and sensitive data. Understand server-only vs client-exposed variables."
+      },
+      {
+        "step": "Step 16: Next.js with TypeScript",
+        "explanation": "Add TypeScript to your Next.js project for type safety, props typing, and better developer experience."
+      },
+      {
+        "step": "Step 17: Performance Optimization",
+        "explanation": "Learn about code splitting, dynamic imports, caching, and using `React.memo`, `useMemo`, and `useCallback` with Next.js."
+      },
+      {
+        "step": "Step 18: Internationalization (i18n)",
+        "explanation": "Implement multiple language support using Next.js built-in i18n routing or libraries like next-i18next."
+      },
+      {
+        "step": "Step 19: Deployment",
+        "explanation": "Learn how to deploy Next.js apps to Vercel (recommended), Netlify, or custom servers. Optimize build for production."
+      },
+      {
+        "step": "Step 20: Build Projects",
+        "explanation": "Practice by building projects like a Blog (SSG), Dashboard (SSR), E-commerce Store (API + Auth), and Portfolio website."
+      }
+    ]
+  }
+]

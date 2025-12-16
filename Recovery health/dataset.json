@@ -1,0 +1,298 @@
+[
+  { "text": "I miss my ex every day and feel sad sometimes", "score": 15 },
+  { "text": "Life feels empty without her these days", "score": 20 },
+  {
+    "text": "I can't sleep at night thinking about the breakup slowly",
+    "score": 10
+  },
+  {
+    "text": "Trying to focus on work but memories hurt gradually",
+    "score": 25
+  },
+  { "text": "I feel broken and lonely again", "score": 5 },
+  { "text": "Friends are helping me move on slowly", "score": 40 },
+  { "text": "I started gym and feel better finally", "score": 55 },
+  { "text": "I met new people and started smiling again", "score": 60 },
+  { "text": "I don’t stalk my ex anymore these days", "score": 65 },
+  {
+    "text": "I can finally laugh without thinking of the past gradually",
+    "score": 70
+  },
+  { "text": "I forgave my ex and feel lighter slowly", "score": 75 },
+  { "text": "I found new hobbies after breakup again", "score": 60 },
+  { "text": "I feel free and happy again finally", "score": 90 },
+  {
+    "text": "Sometimes I still feel sad but better now these days",
+    "score": 50
+  },
+  { "text": "Breakup taught me to be stronger gradually", "score": 85 },
+  { "text": "I don’t feel pain when I see old photos slowly", "score": 78 },
+  { "text": "I still cry but less than before again", "score": 35 },
+  { "text": "My confidence is coming back slowly these days", "score": 68 },
+  { "text": "I don’t think of my ex much anymore finally", "score": 82 },
+  { "text": "I feel okay being single now gradually", "score": 88 },
+  { "text": "I’m excited for future relationships again", "score": 92 },
+  { "text": "Still struggling but I try to smile slowly", "score": 45 },
+  { "text": "Meditation is helping me recover finally", "score": 72 },
+  { "text": "I don’t feel lonely anymore gradually", "score": 95 },
+  { "text": "Music is healing me after breakup again", "score": 70 },
+  { "text": "I accepted it and moved on slowly", "score": 97 },
+  { "text": "Sometimes I miss them but I am stronger finally", "score": 85 },
+  { "text": "I feel peaceful with myself gradually", "score": 93 },
+  { "text": "Breakup was hard but I learned a lot again", "score": 89 },
+  { "text": "I’m fully healed and happy now finally", "score": 100 },
+  { "text": "I feel anxious thinking about her slowly", "score": 20 },
+  { "text": "I can't stop thinking about our memories again", "score": 15 },
+  { "text": "I am starting to enjoy small things slowly", "score": 55 },
+  { "text": "I cried a lot but now feel stronger finally", "score": 50 },
+  { "text": "I feel sad but hopeful gradually", "score": 45 },
+  { "text": "I am done thinking about the past again", "score": 90 },
+  { "text": "I feel light and free today finally", "score": 95 },
+  { "text": "I miss her sometimes but feel okay gradually", "score": 65 },
+  { "text": "I am trying to smile more again", "score": 60 },
+  { "text": "I am slowly moving on finally", "score": 70 },
+  { "text": "I am happy with myself gradually", "score": 92 },
+  { "text": "I feel relaxed and calm again", "score": 85 },
+  { "text": "I still get moments of sadness slowly", "score": 40 },
+  { "text": "I started going out more again", "score": 75 },
+  { "text": "I feel joy in little things again finally", "score": 88 },
+  { "text": "I still feel lonely at times gradually", "score": 35 },
+  { "text": "I am learning to forgive myself again", "score": 80 },
+  { "text": "I feel motivated for new experiences finally", "score": 90 },
+  { "text": "I don’t feel hurt anymore gradually", "score": 95 },
+  { "text": "I feel healed from the past again", "score": 100 },
+  { "text": "I am content being single finally", "score": 92 },
+  { "text": "I am slowly regaining confidence gradually", "score": 75 },
+  { "text": "I feel stronger every day again", "score": 85 },
+  { "text": "I miss my ex every day and feel sad finally", "score": 15 },
+  { "text": "Life feels empty without her gradually", "score": 20 },
+  {
+    "text": "I can't sleep at night thinking about the breakup again",
+    "score": 10
+  },
+  { "text": "Trying to focus on work but memories hurt finally", "score": 25 },
+  { "text": "I feel broken and lonely gradually", "score": 5 },
+  { "text": "Friends are helping me move on slowly again", "score": 40 },
+  { "text": "I started gym and feel better finally again", "score": 55 },
+  {
+    "text": "I met new people and started smiling again gradually",
+    "score": 60
+  },
+  { "text": "I don’t stalk my ex anymore finally", "score": 65 },
+  {
+    "text": "I can finally laugh without thinking of the past again",
+    "score": 70
+  },
+  { "text": "I forgave my ex and feel lighter gradually", "score": 75 },
+  { "text": "I found new hobbies after breakup finally", "score": 60 },
+  { "text": "I feel free and happy again again", "score": 90 },
+  {
+    "text": "Sometimes I still feel sad but better now gradually",
+    "score": 50
+  },
+  { "text": "Breakup taught me to be stronger finally", "score": 85 },
+  { "text": "I don’t feel pain when I see old photos again", "score": 78 },
+  { "text": "I still cry but less than before gradually", "score": 35 },
+  { "text": "My confidence is coming back slowly again", "score": 68 },
+  { "text": "I don’t think of my ex much anymore finally again", "score": 82 },
+  { "text": "I feel okay being single now gradually again", "score": 88 },
+  { "text": "I’m excited for future relationships finally again", "score": 92 },
+  { "text": "Still struggling but I try to smile gradually", "score": 45 },
+  { "text": "Meditation is helping me recover again", "score": 72 },
+  { "text": "I don’t feel lonely anymore finally again", "score": 95 },
+  { "text": "Music is healing me after breakup gradually", "score": 70 },
+  { "text": "I accepted it and moved on again", "score": 97 },
+  { "text": "Sometimes I miss them but I am stronger gradually", "score": 85 },
+  { "text": "I feel peaceful with myself finally again", "score": 93 },
+  { "text": "Breakup was hard but I learned a lot gradually", "score": 89 },
+  { "text": "I’m fully healed and happy now again", "score": 100 },
+  { "text": "I feel anxious thinking about her finally", "score": 20 },
+  { "text": "I can't stop thinking about our memories gradually", "score": 15 },
+  { "text": "I am starting to enjoy small things again finally", "score": 55 },
+  { "text": "I cried a lot but now feel stronger gradually", "score": 50 },
+  { "text": "I feel sad but hopeful finally", "score": 45 },
+  { "text": "I am done thinking about the past gradually", "score": 90 },
+  { "text": "I feel light and free today again", "score": 95 },
+  { "text": "I miss her sometimes but feel okay finally", "score": 65 },
+  { "text": "I am trying to smile more gradually", "score": 60 },
+  { "text": "I am slowly moving on finally again", "score": 70 },
+  { "text": "I am happy with myself gradually finally", "score": 92 },
+  { "text": "I feel relaxed and calm again finally", "score": 85 },
+  { "text": "I still get moments of sadness gradually again", "score": 40 },
+  { "text": "I started going out more finally again", "score": 75 },
+  { "text": "I feel joy in little things again gradually", "score": 88 },
+  { "text": "I still feel lonely at times finally", "score": 35 },
+  { "text": "I am learning to forgive myself gradually again", "score": 80 },
+  { "text": "I feel motivated for new experiences finally again", "score": 90 },
+  { "text": "I don’t feel hurt anymore gradually again", "score": 95 },
+  { "text": "I feel healed from the past finally again", "score": 100 },
+  { "text": "I am content being single gradually", "score": 92 },
+  { "text": "I am slowly regaining confidence finally again", "score": 75 },
+  { "text": "I feel stronger every day gradually", "score": 85 },
+  { "text": "I miss my ex every day and feel sad gradually", "score": 15 },
+  { "text": "Life feels empty without her again", "score": 20 },
+  {
+    "text": "I can't sleep at night thinking about the breakup finally",
+    "score": 10
+  },
+  { "text": "Trying to focus on work but memories hurt slowly", "score": 25 },
+  { "text": "I feel broken and lonely again", "score": 5 },
+  { "text": "Friends are helping me move on slowly finally", "score": 40 },
+  { "text": "I started gym and feel better gradually", "score": 55 },
+  { "text": "I met new people and started smiling again finally", "score": 60 },
+  { "text": "I don’t stalk my ex anymore gradually", "score": 65 },
+  {
+    "text": "I can finally laugh without thinking of the past again",
+    "score": 70
+  },
+  { "text": "I forgave my ex and feel lighter finally", "score": 75 },
+  { "text": "I found new hobbies after breakup gradually", "score": 60 },
+  { "text": "I feel free and happy again again", "score": 90 },
+  {
+    "text": "Sometimes I still feel sad but better now gradually",
+    "score": 50
+  },
+  { "text": "Breakup taught me to be stronger finally", "score": 85 },
+  { "text": "I don’t feel pain when I see old photos gradually", "score": 78 },
+  { "text": "I still cry but less than before finally", "score": 35 },
+  { "text": "My confidence is coming back slowly again", "score": 68 },
+  { "text": "I don’t think of my ex much anymore finally", "score": 82 },
+  { "text": "I feel okay being single now gradually", "score": 88 },
+  { "text": "I’m excited for future relationships again", "score": 92 },
+  { "text": "Still struggling but I try to smile finally", "score": 45 },
+  { "text": "Meditation is helping me recover gradually", "score": 72 },
+  { "text": "I don’t feel lonely anymore again", "score": 95 },
+  { "text": "Music is healing me after breakup finally", "score": 70 },
+  { "text": "I accepted it and moved on gradually", "score": 97 },
+  { "text": "Sometimes I miss them but I am stronger finally", "score": 85 },
+  { "text": "I feel peaceful with myself gradually", "score": 93 },
+  { "text": "Breakup was hard but I learned a lot finally", "score": 89 },
+  { "text": "I’m fully healed and happy now gradually", "score": 100 },
+  { "text": "I feel anxious thinking about her again", "score": 20 },
+  { "text": "I can't stop thinking about our memories finally", "score": 15 },
+  { "text": "I am starting to enjoy small things gradually", "score": 55 },
+  { "text": "I cried a lot but now feel stronger finally", "score": 50 },
+  { "text": "I feel sad but hopeful gradually", "score": 45 },
+  { "text": "I am done thinking about the past again", "score": 90 },
+  { "text": "I feel light and free today gradually", "score": 95 },
+  { "text": "I miss her sometimes but feel okay finally", "score": 65 },
+  { "text": "I am trying to smile more gradually", "score": 60 },
+  { "text": "I am slowly moving on finally", "score": 70 },
+  { "text": "I am happy with myself gradually", "score": 92 },
+  { "text": "I feel relaxed and calm again", "score": 85 },
+  { "text": "I still get moments of sadness finally", "score": 40 },
+  { "text": "I started going out more gradually", "score": 75 },
+  { "text": "I feel joy in little things again finally", "score": 88 },
+  { "text": "I still feel lonely at times gradually", "score": 35 },
+  { "text": "I am learning to forgive myself finally", "score": 80 },
+  { "text": "I feel motivated for new experiences gradually", "score": 90 },
+  { "text": "I don’t feel hurt anymore finally", "score": 95 },
+  { "text": "I feel healed from the past gradually", "score": 100 },
+  { "text": "I am content being single finally", "score": 92 },
+  { "text": "I am slowly regaining confidence gradually", "score": 75 },
+  { "text": "I feel stronger every day finally", "score": 85 },
+  { "text": "I miss my ex every day and feel sad again", "score": 15 },
+  { "text": "Life feels empty without her gradually", "score": 20 },
+  {
+    "text": "I can't sleep at night thinking about the breakup finally",
+    "score": 10
+  },
+  {
+    "text": "Trying to focus on work but memories hurt gradually",
+    "score": 25
+  },
+  { "text": "I feel broken and lonely finally", "score": 5 },
+  { "text": "Friends are helping me move on slowly gradually", "score": 40 },
+  { "text": "I started gym and feel better finally again", "score": 55 },
+  {
+    "text": "I met new people and started smiling again gradually",
+    "score": 60
+  },
+  { "text": "I don’t stalk my ex anymore finally again", "score": 65 },
+  {
+    "text": "I can finally laugh without thinking of the past gradually",
+    "score": 70
+  },
+  { "text": "I forgave my ex and feel lighter finally again", "score": 75 },
+  { "text": "I found new hobbies after breakup gradually again", "score": 60 },
+  { "text": "I feel free and happy again finally again", "score": 90 },
+  {
+    "text": "Sometimes I still feel sad but better now gradually again",
+    "score": 50
+  },
+  { "text": "Breakup taught me to be stronger finally again", "score": 85 },
+  {
+    "text": "I don’t feel pain when I see old photos gradually again",
+    "score": 78
+  },
+  { "text": "I still cry but less than before finally again", "score": 35 },
+  { "text": "My confidence is coming back slowly finally again", "score": 68 },
+  {
+    "text": "I don’t think of my ex much anymore gradually again",
+    "score": 82
+  },
+  { "text": "I feel okay being single now finally again", "score": 88 },
+  {
+    "text": "I’m excited for future relationships gradually again",
+    "score": 92
+  },
+  { "text": "Still struggling but I try to smile finally again", "score": 45 },
+  { "text": "Meditation is helping me recover gradually again", "score": 72 },
+  { "text": "I don’t feel lonely anymore finally again", "score": 95 },
+  { "text": "Music is healing me after breakup gradually again", "score": 70 },
+  { "text": "I accepted it and moved on finally again", "score": 97 },
+  {
+    "text": "Sometimes I miss them but I am stronger gradually again",
+    "score": 85
+  },
+  { "text": "I feel peaceful with myself finally again", "score": 93 },
+  {
+    "text": "Breakup was hard but I learned a lot gradually again",
+    "score": 89
+  },
+  { "text": "I’m fully healed and happy now finally again", "score": 100 },
+  { "text": "I feel anxious thinking about her gradually again", "score": 20 },
+  {
+    "text": "I can't stop thinking about our memories finally again",
+    "score": 15
+  },
+  {
+    "text": "I am starting to enjoy small things gradually again",
+    "score": 55
+  },
+  { "text": "I cried a lot but now feel stronger finally again", "score": 50 },
+  { "text": "I feel sad but hopeful gradually again", "score": 45 },
+  { "text": "I am done thinking about the past finally again", "score": 90 },
+  { "text": "I feel light and free today gradually again", "score": 95 },
+  { "text": "I miss her sometimes but feel okay finally again", "score": 65 },
+  { "text": "I am trying to smile more gradually again", "score": 60 },
+  { "text": "I am slowly moving on finally again", "score": 70 },
+  { "text": "I am happy with myself gradually finally again", "score": 92 },
+  { "text": "I feel relaxed and calm again finally again", "score": 85 },
+  { "text": "I still get moments of sadness gradually finally", "score": 40 },
+  { "text": "I started going out more finally again gradually", "score": 75 },
+  {
+    "text": "I feel joy in little things again gradually finally",
+    "score": 88
+  },
+  { "text": "I still feel lonely at times finally again", "score": 35 },
+  {
+    "text": "I am learning to forgive myself gradually finally again",
+    "score": 80
+  },
+  {
+    "text": "I feel motivated for new experiences finally again gradually",
+    "score": 90
+  },
+  { "text": "I don’t feel hurt anymore finally again gradually", "score": 95 },
+  {
+    "text": "I feel healed from the past gradually finally again",
+    "score": 100
+  },
+  { "text": "I am content being single finally again gradually", "score": 92 },
+  {
+    "text": "I am slowly regaining confidence gradually finally again",
+    "score": 75
+  },
+  { "text": "I feel stronger every day finally again gradually", "score": 85 }
+]

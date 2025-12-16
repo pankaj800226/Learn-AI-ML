@@ -1,0 +1,19 @@
+    Area_sqft  Bedrooms  Bathrooms       City    Price
+        1200         2          1     Mumbai   300000
+       1500         2          1      Delhi   3500002        2000         3          2     Mumbai   5000003        1800         3          2  Bangalore   450000
+        2500         4          3      Delhi   700000
+        2200         3          2     Mumbai   600000
+      3000         4          3  Bangalore   900000
+       3500         4          3      Delhi   750000
+8        4000         5          4     Mumbai  1000000
+9        2800         3          2  Bangalore   800000
+10       1600         2          1      Delhi   380000
+11       1900         3          2     Mumbai   480000
+12       2300         3          2  Bangalore   650000
+13       2700         4          3      Delhi   720000
+14       3100         4          3     Mumbai   850000
+15       3300         4          3  Bangalore   880000
+16       3600         5          3      Delhi   950000
+17       3800         5          4     Mumbai   980000
+18       4200         5          4  Bangalore  1050000
+19       4500         6          4      Delhi  1100000

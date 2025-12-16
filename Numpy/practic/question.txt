@@ -1,0 +1,24 @@
+Basic
+
+1 Show the shape of the scores array.
+2 Get the Math score of student 5.
+3 Calculate the average score for student 10.
+4 Find the highest Science score.
+5 Count how many students scored above 90 in English.
+
+Intermediate
+
+6. Find the student ID with the highest total score.
+7. Calculate the mean score in each subject.
+8. Sort students by Math score (descending).
+9. Get the top 3 Science scores and their student IDs.
+10. Find the percentage of students scoring above 75 in all subjects.
+
+
+Advanced
+11. Normalize all scores so each subject is between 0 and 1.
+12. Find the correlation between Math and Science scores.
+13. Replace all scores below 60 with 60.
+14. Add a Total Score column to the dataset.
+15. Get the index positions of all scores above 95.
+

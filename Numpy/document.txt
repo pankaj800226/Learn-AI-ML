@@ -1,0 +1,90 @@
+# NUMPY CONCEFT
+1d array
+2d array
+3d array
+ones
+zero
+full
+arange
+eye
+append
+randome
+insert = add a new value in 1Darray with indexing position
+size
+ndin
+shape
+dtype
+where
+filter
+mask
+ravel = 2darray convert  in 1d array
+concatenate
+sorted array : sort
+# vstack : row add in array
+# hstack : column add in array
+
+import numpy as np
+
+# 1D Array - Ek single line array
+a1 = np.array([1, 2, 3])  # 1D array
+
+# 2D Array - Matrix jaisa rows x columns wala
+a2 = np.array([[1, 2, 3], [4, 5, 6]])  # 2D array
+
+# 3D Array - Multiple 2D arrays stacked together
+a3 = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])  # 3D array
+
+# ones - Har element 1 hoga
+ones_array = np.ones((2, 3))  # 2 rows, 3 columns filled with 1s
+
+# zeros - Har element 0 hoga
+zeros_array = np.zeros((3, 2))  # 3 rows, 2 columns filled with 0s
+
+# full - Kisi ek fixed value se pura array bharo
+full_array = np.full((2, 2), 7)  # 2x2 array filled with 7
+
+# arange - Range banata hai numbers ka
+arr_range = np.arange(0, 10, 2)  # 0 se 10 tak step 2 (0,2,4,6,8)
+
+# eye - Identity matrix banata hai
+identity = np.eye(3)  # 3x3 identity matrix
+
+# random - Random numbers generate karta hai
+random_array = np.random.rand(2, 3)  # 2x3 random values (0 to 1)
+
+# size - Total elements kitne hain
+total_size = a2.size  # Total number of elements in array
+
+# ndim - Kitne dimensions ka array hai
+num_dims = a3.ndim  # 3D array → ndim = 3
+
+# shape - Dimensions ka size batata hai
+shape = a2.shape  # (2, 3) → 2 rows, 3 columns
+
+# dtype - Data type kya hai elements ka
+data_type = a1.dtype  # usually int32, int64, float64, etc.
+
+# where - Condition ke basis pe index ya value dega
+where_result = np.where(a1 > 1)  # jaha value > 1 hai, unka index dega
+
+# filter - Kisi condition se array filter karna
+filtered = a1[a1 > 1]  # sirf woh values jo >1 hain
+
+# mask - Boolean mask se filter karna
+mask = a1 > 1
+masked_array = a1[mask]  # True wale values hi milengi
+
+# sorted array : sort - array ko increasing order me sort karta hai
+sorted_array = np.sort(a1)  # array [1, 2, 3] ka sorted version
+
+# concatenate two array 
+# concateArray1 = np.array([1,2,3])
+concateArray2 = np.array([4,5,6,7])
+concate = np.concatenate((concateArray1,concateArray2))
+print(concate)
+
+# vstack : row add in array
+# hstack : column add in array
+
+
+

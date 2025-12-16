@@ -1,0 +1,78 @@
+[
+  {
+    "TrainNo": "12036",
+    "TrainName": "Garib Rath 1",
+    "SeatsAvailable": 50,
+    "BasePrice": 2000,
+    "FinalPrice": 1800,
+    "Explanation": [
+      "- Type: AC Chair Car",
+      "- Fastest train connecting major cities",
+      "- Meals included in ticket",
+      "- Comfortable seating with extra legroom",
+      "- Ideal for business travelers and quick journeys",
+      "- Booking tips: Off-peak season discounts available"
+    ]
+  },
+
+  {
+    "TrainNo": "12037",
+    "TrainName": "Rajdhani Express 2",
+    "SeatsAvailable": 80,
+    "BasePrice": 2500,
+    "FinalPrice": 2700,
+    "Explanation": [
+      "- Type: AC First Class / AC 2-Tier / AC 3-Tier",
+      "- Connects major cities quickly",
+      "- Meals included",
+      "- Comfortable seating with extra amenities",
+      "- Popular among business travelers",
+      "- Booking tips: Early booking recommended"
+    ]
+  },
+  {
+    "TrainNo": "12038",
+    "TrainName": "Shatabdi Express 3",
+    "SeatsAvailable": 40,
+    "BasePrice": 1800,
+    "FinalPrice": 1900,
+    "Explanation": [
+      "- Type: AC Chair Car / Executive Class",
+      "- Daytime fast train for major routes",
+      "- Meals included",
+      "- Comfortable seating with refreshments",
+      "- Ideal for tourists and daily commuters",
+      "- Booking tips: Check early bird offers"
+    ]
+  },
+  {
+    "TrainNo": "12039",
+    "TrainName": "Duronto Express 4",
+    "SeatsAvailable": 70,
+    "BasePrice": 2200,
+    "FinalPrice": 2100,
+    "Explanation": [
+      "- Type: AC First Class / AC 2-Tier / AC 3-Tier",
+      "- Non-stop service between major cities",
+      "- Meals included",
+      "- Comfortable seating",
+      "- Ideal for long-distance travelers",
+      "- Booking tips: Seats fill quickly"
+    ]
+  },
+  {
+    "TrainNo": "12040",
+    "TrainName": "Blue Star Express 5",
+    "SeatsAvailable": 55,
+    "BasePrice": 1600,
+    "FinalPrice": 1700,
+    "Explanation": [
+      "- Type: Non-AC Sleeper",
+      "- Scenic route for leisure travelers",
+      "- Comfortable seating with basic amenities",
+      "- Limited availability, book early",
+      "- Ideal for budget travelers",
+      "- Booking tips: Check seasonal discounts"
+    ]
+  }
+]
