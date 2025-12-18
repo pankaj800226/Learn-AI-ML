@@ -1245,7 +1245,8 @@
     "steps": [
       {
         "step": "Response",
-        "explanation": "Answer is : function"
+       "explanation": "Answer is : JSON.parse()"
+
       }
     ]
   },
